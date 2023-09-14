@@ -1,4 +1,3 @@
-|:-------------------------------------|
 | Accounting                           |
 | Acoustics                            |
 | Actuarial science                    |
