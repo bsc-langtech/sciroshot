@@ -46,7 +46,7 @@ print(f'Predicted class: {output["labels"][0]}')
 ```
 @inproceedings{pamies2023weakly,
   title={A weakly supervised textual entailment approach to zero-shot text classification},
-  author={P{\`a}mies, Marc and Llop, Joan and Multari, Francesco and Duran-Silva, Nicolau and Parra-Rojas, C{\'e}sar and Gonz{\'a}lez-Agirre, Aitor and Massucci, Francesco Alessandro and Villegas, Marta},
+  author={Pàmies, Marc and Llop, Joan and Multari, Francesco and Duran-Silva, Nicolau and Parra-Rojas, César and González-Agirre, Aitor and Massucci, Francesco Alessandro and Villegas, Marta},
   booktitle={Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics},
   pages={286--296},
   year={2023}
